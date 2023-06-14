@@ -1,0 +1,10 @@
+membaut porfolio website sendiri
+-Home
+-Beranda
+.Beranda-content
+-tentang saya
+.tentangsaya-content
+-Gallery
+.Gallery-content
+-contact
+.Contact-Content
